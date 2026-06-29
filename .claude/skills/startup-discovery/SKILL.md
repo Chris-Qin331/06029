@@ -5,8 +5,6 @@ description: |
 argument-hint: "[领域: ai|量子|核聚变|航天|能源|全部]"
 arguments: [domain]
 user-invocable: true
-disable-model-invocation: true
-allowed-tools: WebSearch WebFetch Read Write Bash(date *)
 ---
 
 # 前沿科技趋势与早期创业公司发现 Skill
